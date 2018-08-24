@@ -41,4 +41,3 @@ function removeFirstKitten() {
   _kittens.shift()
   return _kittens
 }
-
